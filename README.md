@@ -264,7 +264,7 @@ Try these queries to see the system in action:
 
 ## 📄 License
 
-This project is created for educational purposes as part of Assignment 1.
+This project is created for educational purposes
 
 ## 🤝 Contributing
 
